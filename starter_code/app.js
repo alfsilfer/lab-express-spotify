@@ -5,8 +5,7 @@ const bodyParser = require('body-parser');
 
 // require spotify-web-api-node package here:
 const SpotifyWebApi = require('spotify-web-api-node');
-const clientId = 'f0248061d929487c9ad73be5cd876907',
-clientSecret = '32907005a5be49b9b862c1fb4c8a64a1';
+
 
 
 
